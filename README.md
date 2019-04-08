@@ -1,2 +1,2 @@
-# Minor-Problem-Solutions
-Solutions to minor problems
+# Coding_challanges
+Solved challanges
