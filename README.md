@@ -1,2 +1,2 @@
-# Coding_challanges
-Solved challanges
+# Coding_challenges
+Solved challenges
